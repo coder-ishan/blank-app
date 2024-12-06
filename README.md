@@ -1,19 +1,10 @@
-# 🎈 Blank app template
+# RAG-Based Document Summarizer
 
-A simple Streamlit app template for you to modify!
+This project implements a document summarizer using Retrieval-Augmented Generation (RAG) for long documents. It uses Streamlit for the UI, FAISS for efficient retrieval, and transformers for summarization.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## Setup
 
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+1. Clone this repository to your local machine or GitHub Codespaces.
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt

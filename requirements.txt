@@ -1,1 +1,6 @@
-streamlit
+streamlit==1.18.0
+transformers==4.28.0
+sentence-transformers==2.2.0
+faiss-cpu==1.7.3
+rouge-score==0.1.0
+bert-score==0.3.10ß
